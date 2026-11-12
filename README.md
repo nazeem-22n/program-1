@@ -10,4 +10,6 @@ git config  user.name "Nazeem"
 git config user.email "yourmail@gmail.com" 
 git config --global user.name
 git config --global user.email
-vi 
+vi file name.txt
+add file name.txt 
+git commit -m "done'
